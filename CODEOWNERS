@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @brenoepics
+/src/backend/database.py      @brenoepics
+/src/backend/routers/auth.py  @brenoepics
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @brenoepics
